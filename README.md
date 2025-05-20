@@ -132,12 +132,43 @@ graph TD
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Pranavbm10&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Pranavbm10&theme=radical"/>
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=Pranavbm10&show_icons=true&theme=radical&include_all_commits=true&count_private=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=Pranavbm10&show_icons=true&theme=radical&include_all_commits=true&count_private=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=Pranavbm10&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="180em" />
+  </picture>
+
+  <picture>
+    <source 
+      srcset="https://streak-stats.demolab.com?user=Pranavbm10&theme=radical"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://streak-stats.demolab.com?user=Pranavbm10&theme=radical"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://streak-stats.demolab.com?user=Pranavbm10&theme=radical" height="180em" />
+  </picture>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Pranavbm10&theme=redical&hide_border=true" width="100%"/>
+  <picture>
+    <source 
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=Pranavbm10&theme=redical&hide_border=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=Pranavbm10&theme=redical&hide_border=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranavbm10&theme=redical&hide_border=true" width="100%" />
+  </picture>
 </div>
 
 ---
