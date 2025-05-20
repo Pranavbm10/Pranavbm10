@@ -14,27 +14,11 @@ jobs:
     
     steps:
       - uses: actions/checkout@v3
-      
+
       - name: Generate GitHub Stats
-        uses: anuraghazra/github-readme-stats@master
+        uses: jstrieb/github-stats@v1
         with:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          username: Pranavbm10
-          show_icons: true
-          theme: radical
-          include_all_commits: true
-          count_private: true
-
-      - name: Generate GitHub Streak Stats
-        uses: DenverCoder1/github-readme-streak-stats@v1
-        with:
-          user: Pranavbm10
-          theme: radical
-          hide_border: true
-
-      - name: Generate GitHub Activity Graph
-        uses: Ashutosh00710/github-readme-activity-graph@v1.0
-        with:
-          username: Pranavbm10
-          theme: redical
-          hide_border: true
+          TOKEN: ${{ secrets.GH_TOKEN }}
+          USERNAME: Pranavbm10
+          INCLUDE_ALL_COMMITS: true
+          COUNT_PRIVATE: true
