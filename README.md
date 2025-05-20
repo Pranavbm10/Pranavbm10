@@ -86,7 +86,7 @@ graph TD
 ```
 
 #### Problem Solving Stats
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Pranavbm10?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/Pranavbm10)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Pranavbm10?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/u/pranavbmleo/)
 
 ---
 
